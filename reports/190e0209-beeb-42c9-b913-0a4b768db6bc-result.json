@@ -1,0 +1,47 @@
+{
+    "name": "Search flight from mumbai to delhi and perform assertion of price that all flights should be in ascending order as per price and verify it.",
+    "status": "passed",
+    "steps": [
+        {
+            "name": "Given launch chrome browser",
+            "status": "passed",
+            "start": 1668535148200,
+            "stop": 1668535152023
+        },
+        {
+            "name": "When Open goibibo website",
+            "status": "passed",
+            "start": 1668535152024,
+            "stop": 1668535158406
+        },
+        {
+            "name": "Then search flight from mumbai to delhi",
+            "status": "passed",
+            "start": 1668535158406,
+            "stop": 1668535175571
+        }
+    ],
+    "start": 1668535148198,
+    "stop": 1668535175763,
+    "uuid": "abe8c714-520d-4e5d-9901-03f4adf0367c",
+    "historyId": "35903a797d94e094fddeed758a833d86",
+    "fullName": "Goibibo flight: Search flight from mumbai to delhi and perform assertion of price that all flights should be in ascending order as per price and verify it.",
+    "labels": [
+        {
+            "name": "severity",
+            "value": "normal"
+        },
+        {
+            "name": "feature",
+            "value": "Goibibo flight"
+        },
+        {
+            "name": "framework",
+            "value": "behave"
+        },
+        {
+            "name": "language",
+            "value": "cpython3"
+        }
+    ]
+}
